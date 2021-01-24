@@ -1,1 +1,2 @@
-# covid-19-using-CNN
+# Detection And Classification Of COVID-19 Using CNN 
+
